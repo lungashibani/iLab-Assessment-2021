@@ -52,7 +52,7 @@ public class Steps {
             System.setProperty("env", "sit");
         }
         System.out.println("Environment set to: " + System.getProperty("env"));
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "//Drivers/chromedriver_v95.exe");
+        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "//Drivers/chromedriver_v102.exe");
         //System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "//Drivers/geckodriver_v1.exe");
         //System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "//Drivers/selenium-ie-driver.exe");
         //System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "//Drivers/operadriver.exe");
